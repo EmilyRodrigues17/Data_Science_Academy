@@ -1,2 +1,2 @@
-# Estudos_Data_Science_Academy
-repositório de estudos python para data science
+# Data_Science_Academy
+Repositório destinado aos cursos feitos no Data Science Academy
